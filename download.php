@@ -1,5 +1,5 @@
 <?php
-    $file = "SmartMeterPPT.pptx";
+    $file = "smart-energy-meter.pptx";
 
     if (file_exists($file)) {
         header("Content-Description: File Transfer");
